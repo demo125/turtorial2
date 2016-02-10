@@ -1,3 +1,3 @@
 # turtorial2
-Hi i am user1
+user1
 Hi i am user2
